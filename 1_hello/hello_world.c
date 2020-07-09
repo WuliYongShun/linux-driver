@@ -23,6 +23,6 @@ module_exit(hello_exit);
 
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("embedfire");
+MODULE_AUTHOR("shun");
 MODULE_DESCRIPTION("hello world module");
 MODULE_ALIAS("test_module");

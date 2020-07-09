@@ -1,1 +1,0 @@
-cmd_/home/shun/linux/driver/2_led/led.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/shun/linux/driver/2_led/led.ko /home/shun/linux/driver/2_led/led.o /home/shun/linux/driver/2_led/led.mod.o
